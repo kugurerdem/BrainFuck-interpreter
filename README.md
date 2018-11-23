@@ -1,7 +1,10 @@
-# BrainFuck-interpreter-
+# What is BrainFuck
 
-BrainFuck interpreter written in Java
+BrainFuck is a Turing Complete programming language. It has 8 keywords in it, and with these keyword, despite of its' complexity theorically every program can be written with infinite memory.
 
+# Where is the Interpreter?
+
+Interpreter is basically a class in this folder. You should be able to interprete any BrainFuck code within any class simply creating an instance for Interpreter class. It has two parameters, first parameter is the code itself and second parameter is cell_number. 
 
 # To-Do List
 
