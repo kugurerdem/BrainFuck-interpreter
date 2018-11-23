@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Main.java" package="" timestamp="23-Nov-2018 19:49:03">
+        <select from="577" to="577"/>
+        <scroll column="102" row="0"/>
+      </file>
+      <file name="Interpreter.java" package="" timestamp="23-Nov-2018 14:31:41">
+        <select from="577" to="577"/>
+        <scroll column="102" row="0"/>
+      </file>
+      <file name="Token.java" package="" timestamp="22-Nov-2018 19:15:59">
+        <select from="577" to="577"/>
+        <scroll column="102" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
