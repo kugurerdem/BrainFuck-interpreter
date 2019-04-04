@@ -1,6 +1,6 @@
 # What is BrainFuck
 
-BrainFuck is a Turing Complete programming language. It has 8 keywords in it, and with these keyword, despite of its' complexity theorically every program can be written with infinite memory.
+BrainFuck is a Turing Complete programming language. It has 8 keywords in it, and with these keywords, despite of its' complexity theoretically every program can be written with infinite memory.
 
 # Where is the Interpreter?
 
