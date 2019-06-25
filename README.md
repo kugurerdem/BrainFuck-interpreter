@@ -1,10 +1,10 @@
+# About this Project
+
+The main goal of this project is to come up with an IDE that allows users to write BrainFuck code more easily with some extra features and see the code working simultaniously (This way, it will be easier to track the code).
+
 # What is BrainFuck
 
 BrainFuck is a Turing Complete programming language. It has 8 keywords in it, and with these keywords, despite of its' complexity theoretically every program can be written with infinite memory.
-
-# Where is the Interpreter?
-
-Interpreter is basically a class in this folder. You should be able to interprete any BrainFuck code within any class simply creating an instance for Interpreter class. It has two parameters, first parameter is the code itself and second parameter is cell_number. 
 
 # To-Do List
 
